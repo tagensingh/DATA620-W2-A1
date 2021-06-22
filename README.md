@@ -1,6 +1,6 @@
 # DATA620-W2-A1
 
-The project use a dataset of Enron emails provided by 
+The project use a dataset of Enron emails provided by - https://snap.stanford.edu/data/email-Enron.html
 
 This is a group assignment for Week 2 Assignment1
 
