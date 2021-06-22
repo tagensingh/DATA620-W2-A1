@@ -7,3 +7,7 @@ The group members are
 Ramnivas Singh
 Deepak Sharma
 Tage Singh
+
+Repo Link - https://github.com/tagensingh/DATA620-W2-A1
+
+Link to main Jupyter Notebook - 
